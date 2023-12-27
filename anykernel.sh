@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SilverCore Kernel by REIGNZ3
+kernel.string=Ariden Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=beryllium
-device.name2=dipper
+device.name1=polaris
+device.name2=polaris
 device.name3=
 device.name4=
 device.name5=
